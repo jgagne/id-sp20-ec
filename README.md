@@ -188,6 +188,7 @@ Wednesday at 1:25–4:05 pm and via Slack.
 #### Resources
 
 - [8 Ways to Work Smarter in 2020](https://www.nytimes.com/2019/12/29/smarter-living/8-ways-to-work-smarter-in-2020.html)
+- [HTML5 Element Index](http://html5doctor.com/#glossary) — Helping you implement HTML5 today
 - [MarkSheet](https://marksheet.io) — A free HTML & CSS tutorial
 - [HTML Reference](https://htmlreference.io)
 - [CSS Reference](https://cssreference.io)
