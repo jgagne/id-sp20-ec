@@ -164,9 +164,11 @@ Wednesday at 1:25–4:05 pm and via Slack.
 
 #### Lecture
 
-- [Layers of the Web](https://vimeo.com/373128517) by Jeremy Keith
+- [Layers of the Web](https://vimeo.com/373128517) with Jeremy Keith (45m)
 
 #### Discussion
+
+Let’s talk about content, HTML, and semantics.
 
 - [8 Ways to Work Smarter in 2020](https://www.nytimes.com/2019/12/29/smarter-living/8-ways-to-work-smarter-in-2020.html)
 
@@ -192,3 +194,50 @@ Wednesday at 1:25–4:05 pm and via Slack.
 - [MarkSheet](https://marksheet.io) — A free HTML & CSS tutorial
 - [HTML Reference](https://htmlreference.io)
 - [CSS Reference](https://cssreference.io)
+
+## Week 2
+
+### Preface
+
+#### Lecture
+
+- [Rolling Up Our Responsive Sleeves](https://aneventapart.com/news/post/marcotte2012-rwd) with Ethan Marcotte (1h)
+
+#### Discussion
+
+Let’s talk responsive web design, CSS, and maybe even GitHub.
+
+- [Responsive Web Design](https://alistapart.com/article/responsive-web-design/)
+- [Boston Global Scope](https://adactio.com/journal/4862)
+- [CSS Zen Garden](http://www.csszengarden.com) by Dave Shea
+
+### Readings
+
+- [Responsive Web Design](https://alistapart.com/article/responsive-web-design/)
+- [Fluid Images](https://alistapart.com/article/fluid-images/)
+- [When writing alt text, ask yourself this question](https://www.centercentre.com/2016/06/09/2016-06-09-when-writing-alt-text-ask-yourself-this-question/)
+
+### Resources
+
+- [Essential Image Optimization](https://images.guide)
+- [Responsive Images 101](https://cloudfour.com/thinks/responsive-images-101-definitions/)
+- [Alt-texts: The Ultimate Guide](https://axesslab.com/alt-texts/)
+- [A free guide to `<head>` elements](https://htmlhead.dev)
+- [A guide to using Github Pages](https://www.thinkful.com/learn/a-guide-to-using-github-pages/)
+
+### Image Optimization Tools
+
+- [ImageOptim](https://imageoptim.com/mac) (Mac only)
+- [Squoosh](https://squoosh.app)
+- [SVGOMG!](https://jakearchibald.github.io/svgomg/)
+
+### Color Accessibility Tools
+
+- [Accessible Colors](http://accessible-colors.com)
+- [Contraste](https://contrasteapp.com) (Mac only)
+
+### Developer Tools
+
+Validate HTML/CSS and more…
+
+- [W3C Developer Tools](https://www.w3.org/developers/tools/)
