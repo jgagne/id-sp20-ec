@@ -1,0 +1,258 @@
+/* Fira Mono */
+
+@font-face {
+  font-family: "Fira Mono";
+  src: url("../fonts/fira/woff2/FiraMono-Regular.woff2") format("woff2"),
+       url("../fonts/fira/woff/FiraMono-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Fira Mono";
+  src: url("../fonts/fira/woff2/FiraMono-Bold.woff2") format("woff2"),
+       url("../fonts/fira/woff/FiraMono-Bold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* Fira Sans */
+
+@font-face {
+  font-family: "Fira Sans";
+  src: url("../fonts/fira/woff2/FiraSans-Regular.woff2") format("woff2"),
+       url("../fonts/fira/woff/FiraSans-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Fira Sans";
+  src: url("../fonts/fira/woff2/FiraSans-Bold.woff2") format("woff2"),
+       url("../fonts/fira/woff/FiraSans-Bold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Fira Sans";
+  src: url("../fonts/fira/woff2/FiraSans-Heavy.woff2") format("woff2"),
+       url("../fonts/fira/woff/FiraSans-Heavy.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+}
+
+
+/* --- resets --- */
+
+html {
+  font: 100%/1.15 "Fira Sans", sans-serif;
+  font-weight: 400;
+}
+
+body {
+  padding: 1rem;
+  margin: 0 auto;
+}
+
+.max-width {
+  max-width: 64rem;
+  margin-top: 5%;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin-top: 0;
+}
+
+h1 {
+  font-weight: 900;
+}
+
+p,
+li {
+  font-size: 1.15em;
+  line-height: 1.35;
+}
+
+mark {
+  background-color: #fee100;
+}
+
+blockquote {
+  padding-left: 1.15rem;
+  border-left: 1rem solid #fee100;
+  margin-left: 0;
+}
+
+blockquote p {
+  font-size: 1.35em;
+}
+
+img {
+  display: inline-block;
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+
+figure {
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+figcaption {
+  line-height: 1.15;
+}
+
+img + figcaption,
+.video-embed + figcaption {
+  padding-top: 1rem;
+}
+
+.hashtag {
+  font-family: "Fira Mono", monospace;
+  font-weight: 400;
+  letter-spacing: -.25rem;
+}
+
+ol,
+ul {
+  padding-left: 1.15rem;
+}
+
+li {
+  margin-top: .6rem;
+}
+
+li:first-child {
+  margin-top: 0;
+}
+
+.video-embed {
+  position: relative;
+  background-color: #000;
+  padding-bottom: 56.25%;
+}
+
+.video-embed iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+a {
+  color: #fd3e45;
+}
+
+a:hover,
+a:focus {
+  color: #373983;
+}
+
+.dir {
+  list-style: none url("");
+  padding-left: 0;
+  overflow: hidden;
+  clear: both;
+}
+
+.dir li {
+  display: inline;
+  margin-right: 1.5rem;
+}
+
+.dir li:first-child {
+  margin-left: 0;
+}
+
+.dir a {
+  display: inline-block;
+  font-family: "Fira Mono", monospace;
+  color: #04cdae;
+  text-decoration: none;
+}
+
+figure {
+	position: relative;
+}
+
+figure div {
+	float: left;
+	width: 68%;
+}
+
+figure img {
+	float: left;
+	width: 68%;
+	padding: 2% 0;
+	border-top: .1em solid #04cdae;
+	border-bottom: .1em solid #04cdae;
+	margin: 0 0 1em 0;
+}
+
+a:hover img {
+	border-top-color: #373983;
+	border-bottom-color: #373983;
+}
+
+figcaption {
+	float: right;
+	width: 28%;
+	font-size: 50%;
+	line-height: 1.5;
+	padding: 1em 0 0 0;
+	border-top: 1px dashed #000;
+}
+
+figcaption small {
+	font-size: 1.2em;
+}
+
+figcaption blockquote footer {
+	font: 1em/1.1 Georgia, serif;
+	margin: .5em 0 0 0;
+}
+
+.col-2 {
+	list-style: none;
+	float: left;
+	width: 50%;
+	padding: 0;
+}
+
+pre {
+  padding: 0;
+  margin: 0;
+}
+
+@media only screen and (min-width: 60em) {
+
+  body {
+    font-size: 200%;
+  }
+
+}
+
+.sr-only {
+  border: 0;
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+
+.no-wrap {
+  white-space: nowrap;
+}
+
