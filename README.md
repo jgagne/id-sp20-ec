@@ -97,6 +97,7 @@ Browsers *other than* Chrome (or Safari). See [Switchin’ to Firefox](https://r
 ### Image Optimization Tools
 
 - [ImageOptim](https://imageoptim.com/mac) (Mac only)
+- [ImageAlpha](https://pngmini.com) Optimize 24-bit PNG files (including alpha transparency); (Mac only)
 - [Squoosh](https://squoosh.app)
 - [SVGOMG!](https://jakearchibald.github.io/svgomg/)
 
@@ -205,7 +206,7 @@ Let’s talk about content, HTML, and semantics.
 
 #### Discussion
 
-Let’s talk responsive web design, CSS, and maybe even GitHub.
+Let’s talk about responsive web design, CSS, and maybe even GitHub.
 
 - [Responsive Web Design](https://alistapart.com/article/responsive-web-design/)
 - [Boston Global Scope](https://adactio.com/journal/4862)
@@ -228,16 +229,73 @@ Let’s talk responsive web design, CSS, and maybe even GitHub.
 ### Image Optimization Tools
 
 - [ImageOptim](https://imageoptim.com/mac) (Mac only)
+- [ImageAlpha](https://pngmini.com) Optimize 24-bit PNG files (including alpha transparency); (Mac only)
 - [Squoosh](https://squoosh.app)
 - [SVGOMG!](https://jakearchibald.github.io/svgomg/)
-
-### Color Accessibility Tools
-
-- [Accessible Colors](http://accessible-colors.com)
-- [Contraste](https://contrasteapp.com) (Mac only)
 
 ### Developer Tools
 
 Validate HTML/CSS and more…
 
 - [W3C Developer Tools](https://www.w3.org/developers/tools/)
+
+## Week 3
+
+<!--
+### Takeaways
+
+> Think about alt text by imagining you are reading a web page to someone over the phone. When you come to an image that adds meaning to the content, what words do you use to describe the image to the person you were talking to? The image should be meaningful in the context of the content of the page, and the alt text should explain that meaning.
+>
+>—Virginia DeBolt, [Accessibility Teaching Resources](http://www.webteacher.ws/2014/12/10/accessibility-teaching-materials/)
+-->
+
+### Preface
+
+#### Lecture
+
+- [History, HTML & CSS Primer](https://jgagne.github.io/id-sp20-ec/lectures/primer/)
+
+#### Discussion
+
+Let’s talk about responsive web design, CSS, interaction, color, and GitHub.
+
+### Homework
+
+#### Tasks
+
+- Add navigation, to navigation to each section of the article
+  - **Bonus:** Add navigation to go back to the start of the article
+- Add `:hover`, `:focus`, and `:active` state styles in your CSS
+- Start to add simple [typographic](https://cssreference.io/typography/) and basic [box model layout](https://cssreference.io/box-model/) (focusing on `padding`, `border` and `margin`) styles to the article
+- Use an accessible color palette in your illustration and your navigation links
+- Optimize illustration (SVG and PNG)
+- Upload all assets to GitHub
+
+### Resources
+
+#### Navigation
+
+- [Semantic navigation with the nav element](http://html5doctor.com/nav-element/)
+
+#### Interactive Pseudo-Classes
+
+- [You are doing :focus wrong (and I was too)](https://www.youtube.com/watch?v=Mvu5OMGcdVA)
+- [When do the :hover, :focus, and :active pseudo-classes apply?](https://bitsofco.de/when-do-the-hover-focus-and-active-pseudo-classes-apply/)
+
+#### Color Accessibility Tools
+
+- [Accessible Colors](http://accessible-colors.com)
+- [Contraste](https://contrasteapp.com) (Mac only)
+
+#### GitHub
+
+- [Publishing Your First Github Pages Website](https://thegymnasium.com/take5/publishing-your-first-github-pages-website)
+
+#### Developer Tools
+
+Validate HTML/CSS and more…
+
+- [W3C Developer Tools](https://www.w3.org/developers/tools/)
+
+
+

@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en-US" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/main.css">
+  <title>Demo: Responsive Images | SVG</title>
+  <meta name="description" content="Responsive images demo using the srcset and sizes attributes.">
+  <meta name="author" content="Justin Gagne">
+</head>
+<body>
+<noscript>
+  <p><strong>JavaScript is disabled</strong>, but <mark>all page content is accessible</mark>. Consider a <a class="irony" href="https://www.toptal.com/designers/web/content-first-design">content-first design</a> approach for building a more accessible and future-friendly web.</p>
+</noscript>
+
+<header>
+  <h1>Responsive Images</h1>
+  <p>A <del class="note" datetime="2020-03-04" hidden>well-deserved</del> demo <s><ins datetime="2020-03-04">redo</ins></s> for loading <a href="https://images.guide/#choosing-an-image-format"><mark>scaleable vector graphics</i></mark></a> (<abbr>SVG</abbr>) responsively <em>and responsibly</em> with a fallback raster image (JPG/PNG). <strong>See source code <code>&lt;!-- comments --&gt;</code> for details.</strong></p>
+</header>
+
+<img alt="Flat, thick-line styled, 6-color illustration of an office chair with a red and white vertically striped flag strapped to the backrest in motion, from left to right, in an empty office room with a orange wall and blue floor." src="img/work-smarter-2020-2048w.png" srcset="img/work-smarter-2020-2048w.svg" width="2048" height="1365" decoding="async">
+
+<!--
+
+Notes:
+
+1. alt attribute (required): Essential descriptive alternative text; alt text is part of your site’s content.
+2. src attribute (mandatory): Essential fallback image; start with the image first; is it good enough?
+3.srcset attribute (optional): Progressively enhance the image experiecnce by providing alternate images at various widths, from small width to wider widths, using each image's intrinsic width in pixels (as a unitless value) with a width (w) descriptor (for example: 960w).
+4. sizes attribute (required if using sizes attribute): Set media condition to detect widest image width (in em units), and the width of the viewport (in vw units), along with a fallback max-width (in em units). See also: https://cloudfour.com/thinks/responsive-images-101-part-5-sizes/
+5. decoding attribute (optional): Indicates a preference to decode this image asynchronously to avoid delaying presentation of other content.
+
+References:
+
+Fluid Images
+https://alistapart.com/article/fluid-images/
+
+Responsive images
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images
+
+Images courtesy of
+https://alistapart.com/article/responsive-web-design/
+
+Images optimized with
+https://imageoptim.com
+
+-->
+
+</body>
+</html>

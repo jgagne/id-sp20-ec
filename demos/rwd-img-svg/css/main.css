@@ -1,0 +1,16 @@
+/* --- responsive images --- */
+
+img {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+
+/* --- typographic details --- */
+
+/* Remove underline on inserted content that is marked (line-through) as longer accurate or relevant. */
+
+s ins {
+  text-decoration: none;
+}
