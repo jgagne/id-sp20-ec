@@ -131,6 +131,11 @@ Validate HTML/CSS and more…
 - [Gridzzly](http://gridzzly.com) Make your own grid paper.
 - [Sneakpeekit](http://sneakpeekit.com) Printable grids for design wireframing.
 
+### HTML Symbols, Entities, Characters and Codes
+
+- [HTML Symbols, Entities, Characters and Codes](https://htmlarrows.com)
+- [Charcod.es](https://charcod.es)
+
 ## Books
 
 Nice-to-have, but *not* required.
@@ -142,7 +147,12 @@ Nice-to-have, but *not* required.
 
 ## Schedule
 
-Wednesday at 1:25–4:05 pm and via Slack.
+Wednesday at 1:25–4:05 pm and via [Slack](https://id-sp20-ec.slack.com).
+
+1. [Week 1](#week-1), January 22
+2. [Week 2](#week-2), January 29
+3. [Week 3](#week-3), February 5
+4. [Week 4](#week-4), February 12
 
 ## Week 1
 
@@ -241,14 +251,6 @@ Validate HTML/CSS and more…
 
 ## Week 3
 
-<!--
-### Takeaways
-
-> Think about alt text by imagining you are reading a web page to someone over the phone. When you come to an image that adds meaning to the content, what words do you use to describe the image to the person you were talking to? The image should be meaningful in the context of the content of the page, and the alt text should explain that meaning.
->
->—Virginia DeBolt, [Accessibility Teaching Resources](http://www.webteacher.ws/2014/12/10/accessibility-teaching-materials/)
--->
-
 ### Preface
 
 #### Lecture
@@ -296,6 +298,26 @@ Let’s talk about responsive web design, CSS, interaction, color, and GitHub.
 Validate HTML/CSS and more…
 
 - [W3C Developer Tools](https://www.w3.org/developers/tools/)
+
+## Week 4
+
+### Homework
+
+#### Tasks
+
+Rework of the article [8 Ways to Work Smarter in 2020](https://www.nytimes.com/2019/12/29/smarter-living/8-ways-to-work-smarter-in-2020.html)
+
+- [ ] Validate [HTML](https://validator.w3.org/nu/), [SVG](https://validator.w3.org/nu/), and [CSS](https://jigsaw.w3.org/css-validator/), and [check links](https://validator.w3.org/checklink)
+- [ ] Create project repo on GitHub and share your project URL in the `#article-rework` channel via Slack
+- [ ] Project rubric TBA
+
+#### Readings
+
+- [Old CSS, New CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/)
+- [Resilient, Declarative, Contextual](https://keithjgrant.com/posts/2018/06/resilient-declarative-contextual/)
+- [Naming Stuff in CSS is Hard](https://seesparkbox.com/foundry/naming_css_stuff_is_really_hard)
+- [Why you should say HTML classes, CSS class selectors, or CSS pseudo-classes, but not CSS classes](http://tantek.com/2012/353/b1/why-html-classes-css-class-selectors) *p.s. It's "class", not "CSS class".*
+
 
 
 
