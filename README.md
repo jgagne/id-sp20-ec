@@ -3,7 +3,7 @@
 # Interactive Design
 
 - Wednesday, 1:25–4:05 pm, ADM 535
-- Class Workspace: [Slack](https://slack.com) — Where Work Happens™
+- Class Workspace: [Slack](https://id-sp20-ec.slack.com) — Where Work Happens™
 - Office Hours: ½ hour before/after class or by appointment (via Slack)
 - Instructor: Justin Gagne
 - Email: `gagnej@emmanuel.edu`
