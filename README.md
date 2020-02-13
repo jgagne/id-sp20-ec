@@ -316,6 +316,7 @@ Rework of the article [8 Ways to Work Smarter in 2020](https://www.nytimes.com/2
 - [Old CSS, New CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/)
 - [Resilient, Declarative, Contextual](https://keithjgrant.com/posts/2018/06/resilient-declarative-contextual/)
 - [Naming Stuff in CSS is Hard](https://seesparkbox.com/foundry/naming_css_stuff_is_really_hard)
+- [The i, b, em, & strong elements](http://html5doctor.com/i-b-em-strong-element/)
 - [Why you should say HTML classes, CSS class selectors, or CSS pseudo-classes, but not CSS classes](http://tantek.com/2012/353/b1/why-html-classes-css-class-selectors) *p.s. It's "class", not "CSS class".*
 
 
