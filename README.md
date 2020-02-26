@@ -242,6 +242,35 @@ Choose a recipe, a borrowed favorite or family secret.
 
 - [ ] **Extra Credit:** Make your recipe and photograph the final product; *(optional)* maybe photograph the ingredients, the steps, etc. while you’re at it.
 
+## Week 7
+
+Continue working on recipe.
+
+### Homework
+
+Markup and style the following content, focusing on meaningful structure and semantics, web-safe typography, and accessible colors:
+
+- [ ] Add recipe title
+- [ ] Add description list of recipe cooking time and serving size
+- [ ] Add recipe hero photo
+- [ ] Add well-written alt-text for all images
+- [ ] Add headshot and byline of author
+- [ ] Add navigation to internal page sections
+- [ ] Add introduction (history, info, etc.)
+- [ ] Add an ingredients list
+- [ ] Add a preparation list
+- [ ] Add any other photos to show steps or final presentation of the recipe
+- [ ] Add an about the author section (link byline to about section)
+
+### Readings
+
+- [TBA]()
+
+## Week 8
+
+*No class*, Arts and Sciences Spring Break
+
+
 ## Tools
 
 ### Text Editors
