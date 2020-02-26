@@ -1,0 +1,272 @@
+/* --- style resets --- */
+/*
+https://css-tricks.com/reboot-resets-reasoning/
+https://www.filamentgroup.com/lab/how-we-learned-to-leave-body-font-size-alone.html
+https://github.com/necolas/normalize.css/blob/master/normalize.css
+*/
+
+html {
+  font: 100%/1.15 sans-serif;
+  -webkit-text-size-adjust: 100%;
+  scroll-behavior: smooth;
+}
+
+body,
+figure {
+  margin: 0;
+}
+
+/* --- responsive images --- */
+/* https://alistapart.com/article/fluid-images/ */
+
+img {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+/* --- body / structure --- */
+
+/*
+- Confused About REM and EM?
+https://j.eremy.net/confused-about-rem-and-em/
+*/
+
+body {
+  font-family: Georgia, serif;
+  padding: 0 3.5%;
+  padding: 1.2rem;
+  margin: 0 auto;
+}
+
+.max-width-text {
+  max-width: 40rem;
+  margin: 0 auto;
+}
+
+/* --- header --- */
+
+header {
+  padding-top: 3.5%;
+}
+
+header h1 {
+  font-family: "Times New Roman", serif;
+  font-size: 2.5em;
+  font-weight: normal;
+  word-spacing: -.075em;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+header p.summary {
+  font-family: "Times New Roman", serif;
+  font-size: 1.25em;
+}
+
+header p.summary strong {
+  font-weight: inherit;
+}
+
+/* --- figure --- */
+
+figure.hero {
+  margin: 0 -1.2rem;
+}
+
+figure.hero .credit {
+  font-size: .8em;
+  color: #666;
+  margin: .6rem 1.2rem 0;
+}
+
+/* --- main --- */
+
+main,
+nav,
+section {
+  padding-top: 1rem;
+}
+
+main {
+  padding-bottom: 3.5%;
+}
+
+main h2 {
+  line-height: 1.25;
+}
+
+main p {
+  margin-bottom: 0;
+}
+
+#welcome {
+  padding: 1em 0;
+  border-top: 1px solid #326891;
+  border-bottom: 1px solid #326891;
+}
+
+/*
+- CSS Selectors
+https://www.quirksmode.org/css/selectors/
+*/
+
+#welcome + * {
+  margin-top: 1.5em;
+}
+
+/* --- navigation --- */
+
+nav ol {
+  padding-left: 2rem;
+  margin: 0;
+}
+
+nav li {
+  font-weight: bold;
+  margin-top: .6rem;
+}
+
+nav a {
+  font-weight: normal;
+}
+
+/* ---- paragraphs / list items --- */
+
+p,
+li {
+  font-size: 1.1em;
+  line-height: 1.45;
+  hanging-punctuation: first;
+}
+
+p.byline,
+time {
+  font-family: sans-serif;
+}
+
+/* ---- headshot / byline --- */
+
+.headshot-byline {
+  padding-top: 1.5rem;
+}
+
+img.headshot {
+  max-width: 3em;
+  vertical-align: middle;
+  border: 1px solid #eee;
+  border-radius: 50%;
+  filter: grayscale(100%);
+  margin-right: .5rem;
+}
+
+p.byline {
+  display: inline-block;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+/* ---- publication date/time --- */
+
+.publication-datetime {
+  padding-top: 1.5rem;
+}
+
+.publication-datetime time {
+  display: inline;
+  font-size: .8em;
+}
+
+.publication-datetime time:first-child {
+  margin-right: 1rem;
+}
+
+/* --- links --- */
+
+/*
+- HTML Color Codes
+https://htmlcolorcodes.com
+- Color Hex: Color encyclopedia providing information about any color.
+https://www.colorhexa.com
+- Color Contrast Checker
+https://marijohannessen.github.io/color-contrast-checker/
+- When do the :hover, :focus, and :active pseudo-classes apply?
+https://bitsofco.de/when-do-the-hover-focus-and-active-pseudo-classes-apply/
+*/
+
+a {
+  color: #326891;
+}
+
+a:hover {
+  color: #000;
+  background-color: #fcf3d8;
+}
+
+a:focus,
+a:active {
+  color: #000;
+  background-color: #f9e7b4;
+}
+
+/*
+- HTML/CSS Symbols → ↓ (Use the symbol ✓ instead of the [HTML] &#x2713; [CSS] \2713 code.)
+https://www.toptal.com/designers/htmlarrows/
+- Understanding CSS Before and After Pseudo-elements
+https://dev.to/finallynero/understanding-css-before-and-after-pseudo-elements-ml0
+*/
+
+a.read-more::after {
+  content: "\00A0⇢";
+}
+
+a.back-to-top::after {
+  content: "\00A0⇡";
+}
+
+p.byline a {
+  color: #000;
+  background-color: transparent;
+  text-decoration: none;
+  border-bottom: 1px solid #ccc;
+}
+
+p.byline a:hover {
+  border-bottom: 0;
+}
+
+p.byline a:focus,
+p.byline a:active {
+  border-bottom: 1px solid #000;
+}
+
+/* --- breakpoint / wider layout --- */
+
+@media only screen and (min-width: 40em) {
+
+  /* update overall em unit based typography and layout */
+
+  body {
+    font-size: 120%;
+  }
+
+  /* prevent word-wrap on link to main content */
+
+  p.summary a {
+    display: inline-block;
+  }
+
+  /* resize hero figure max-width */
+
+  figure.hero {
+    max-width: 60rem;
+    margin: 0 auto;
+  }
+
+  /* update figcaption margin offset */
+
+  figure.hero .credit {
+    margin: .6rem 0 0;
+  }
+
+}
