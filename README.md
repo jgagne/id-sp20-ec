@@ -49,7 +49,7 @@ For Arts and Sciences traditional, face-to-face classes: Students expected to de
 
 Academic integrity, ethics and trust are core values in the Emmanuel College community. These values should matter to all members of the community and should apply everywhere—in our classrooms, in the Library, in the Computer Labs, in the Student Center, in the residence halls, in the dining hall, and in our offices. An academic community where each member of that community upholds the values of academic integrity, ethics and trust is one in which faculty members, students, administrators and staff can achieve significant goals and make meaningful contributions. In such a community, people treat each other with respect and value the intellectual and real property of other individuals and of the community as a whole.
 
-This Community Statement is intended to remind us that everyone is part of the effort to further enhance and sustain a culture of academic integrity, ethics and trust. It should appear on all College syllabi and could also be used in the Admissions process, during orientation, displayed in College buildings and recited at important ceremonial events on campus. "I willingly accept my role in this process" added to the Statement if recited or written and signed. In the event that a faculty member does not include the Community Statement on the syllabus, students are nonetheless responsible for work that is consistent with standards of academic integrity. For complete information about the Academic Integrity Policy please visit [http://www.emmanuel.edu/academics/registrar/academic-policies/academic-integrity-policy.html](http://www.emmanuel.edu/academics/registrar/academic-policies/academic-integrity-policy.html)
+This Community Statement is intended to remind us that everyone is part of the effort to further enhance and sustain a culture of academic integrity, ethics and trust. It should appear on all College syllabi and could also be used in the Admissions process, during orientation, displayed in College buildings and recited at important ceremonial events on campus. “I willingly accept my role in this process” added to the Statement if recited or written and signed. In the event that a faculty member does not include the Community Statement on the syllabus, students are nonetheless responsible for work that is consistent with standards of academic integrity. For complete information about the Academic Integrity Policy please visit [http://www.emmanuel.edu/academics/registrar/academic-policies/academic-integrity-policy.html](http://www.emmanuel.edu/academics/registrar/academic-policies/academic-integrity-policy.html)
 
 ## Academic Support and Accommodations Syllabus Statement
 
@@ -329,7 +329,7 @@ Rework of the article [8 Ways to Work Smarter in 2020](https://www.nytimes.com/2
 - [Resilient, Declarative, Contextual](https://keithjgrant.com/posts/2018/06/resilient-declarative-contextual/)
 - [Naming Stuff in CSS is Hard](https://seesparkbox.com/foundry/naming_css_stuff_is_really_hard)
 - [The i, b, em, & strong elements](http://html5doctor.com/i-b-em-strong-element/)
-- [Why you should say HTML classes, CSS class selectors, or CSS pseudo-classes, but not CSS classes](http://tantek.com/2012/353/b1/why-html-classes-css-class-selectors) *p.s. It's "class", not "CSS class".*
+- [Why you should say HTML classes, CSS class selectors, or CSS pseudo-classes, but not CSS classes](http://tantek.com/2012/353/b1/why-html-classes-css-class-selectors) *p.s. It’s “class”, not “CSS class”.*
 
 ## Week 5
 
@@ -361,12 +361,3 @@ Let’s talk about lists, more on typography, typographic details, and special c
 Choose a recipe, a borrowed favorite or family secret.
 
 - [ ] **Extra Credit:** Make your recipe and photograph the final product; *(optional)* maybe photograph the ingredients, the steps, etc. while you’re at it.
-
-
-
-
-
-
-
-
-
