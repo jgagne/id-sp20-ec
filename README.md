@@ -331,6 +331,42 @@ Rework of the article [8 Ways to Work Smarter in 2020](https://www.nytimes.com/2
 - [The i, b, em, & strong elements](http://html5doctor.com/i-b-em-strong-element/)
 - [Why you should say HTML classes, CSS class selectors, or CSS pseudo-classes, but not CSS classes](http://tantek.com/2012/353/b1/why-html-classes-css-class-selectors) *p.s. It's "class", not "CSS class".*
 
+## Week 5
+
+Let’s talk about web-safe typography.
+
+### Demo
+
+[Typographic Style](https://jsbin.com/morumo/edit?html,css,output)
+
+### Readings
+
+- [Fonts on the Web: Web-safe Fonts](https://www.fonts.com/content/learning/fyti/using-type-tools/fonts-on-the-web)
+
+### Resources
+
+- [Typography in CSS](https://cssreference.io/typography/)
+- [CSS Font Stacks](https://www.cssfontstack.com)
+- [HTML Symbols](https://www.toptal.com/designers/htmlarrows/symbols/)
+- [Butterick’s Practical Typography](https://practicaltypography.com)
+
+## Week 6
+
+Let’s talk about lists, more on typography, typographic details, and special characters.
+
+### Recipe
+
+#### Brief
+
+Choose a recipe, a borrowed favorite or family secret.
+
+- [ ] **Extra Credit:** Make your recipe and photograph the final product; *(optional)* maybe photograph the ingredients, the steps, etc. while you’re at it.
+
+
+
+
+
+
 
 
 
