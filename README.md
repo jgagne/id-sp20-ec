@@ -108,6 +108,8 @@ Emmanuel College is committed to providing its students, faculty and staff with 
 
 </details>
 
+## Tools
+
 ### Text Editors
 
 Choose your brand or flavor; free-range, open or locally sourced.
