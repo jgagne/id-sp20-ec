@@ -25,6 +25,7 @@
 
 This advanced course introduces students to the concepts and techniques of interactive design through industry standard web development. Through focused projects, students will explore interactive paradigms of user experience, information architecture, and navigation design with an emphasis on organization and usability. Current and future directions of interactive design will be discussed with a focus on advanced HTML, CSS, responsive design, frameworks, and workflows.
 
+
 ## Schedule
 
 Wednesday at 1:25–4:05 pm and via [Slack](https://id-sp20-ec.slack.com).
@@ -45,6 +46,7 @@ Wednesday at 1:25–4:05 pm and via [Slack](https://id-sp20-ec.slack.com).
 14. [Week 14](#week-14), April 15
 15. [Week 15](#week-15), April 22
 16. [Week 16](#week-16), April 29, *Last class*
+
 
 ## Week 1
 
@@ -334,6 +336,7 @@ Validate HTML/CSS and more…
 - [HTML Symbols, Entities, Characters and Codes](https://htmlarrows.com)
 - [Charcod.es](https://charcod.es)
 
+
 ## Books
 
 Nice-to-have, but *not* required.
@@ -342,6 +345,7 @@ Nice-to-have, but *not* required.
 - [Responsive Web Design](https://abookapart.com/products/responsive-web-design) by Ethan Marcotte (Second Edition)
 - [Designing with Web Standards](https://www.amazon.com/Designing-Web-Standards-Jeffrey-Zeldman/dp/0321616952) by Jeffrey Zeldman (Third Edition)
 - [The Art and Science of Web Design](https://www.amazon.com/Art-Science-Web-Design/dp/0789723700) by Jeffrey Veen *(Oldie, but goodie.)*
+
 
 ## Policies
 
