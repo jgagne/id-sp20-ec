@@ -153,6 +153,18 @@ Wednesday at 1:25–4:05 pm and via [Slack](https://id-sp20-ec.slack.com).
 2. [Week 2](#week-2), January 29
 3. [Week 3](#week-3), February 5
 4. [Week 4](#week-4), February 12
+5. [Week 5](#week-5), February 19
+6. [Week 6](#week-6), February 26
+7. [Week 7](#week-7), March 4
+8. [Week 8](#week-8), March 11, *No class*, Arts and Sciences Spring Break
+9. [Week 9](#week-9), March 18
+10. [Week 10](#week-10), March 18
+11. [Week 11](#week-11), March 25
+12. [Week 12](#week-12), April 1
+13. [Week 13](#week-13), April 8
+14. [Week 14](#week-14), April 15
+15. [Week 15](#week-15), April 22
+16. [Week 16](#week-16), April 29, *Last class*
 
 ## Week 1
 
