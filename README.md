@@ -12,16 +12,13 @@
 - - -
 
 - [Course Description](#course-description)
-
-- - -
-
+- [Schedule](#schedule)
 - [Tools](#tools)
 - [Books](#books)
 - [Resources](#resources)
 
 - - -
 
-- [Schedule](#schedule)
 
 ## Course Description
 
