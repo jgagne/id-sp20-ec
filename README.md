@@ -250,7 +250,7 @@ Continue working on recipe.
 
 ### Homework
 
-Markup and style the following content, focusing on meaningful structure and semantics, web-safe typography, and accessible colors:
+Markup and style the following content — focusing on meaningful structure and semantics, web-safe typography, and accessible colors:
 
 - [ ] Add recipe title
 - [ ] Add description list of recipe cooking time and serving size
@@ -263,6 +263,12 @@ Markup and style the following content, focusing on meaningful structure and sem
 - [ ] Add a preparation list
 - [ ] Add any other photos to show steps or final presentation of the recipe
 - [ ] Add an about the author section (link byline to about section)
+
+### Demo
+
+See HTML comments for details.
+
+- [`recipe-wip`](demos/recipe-wip/index.html)
 
 ### Readings
 
