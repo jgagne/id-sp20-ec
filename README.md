@@ -272,7 +272,7 @@ See HTML comments for details.
 
 ### Readings
 
-- [TBA]()
+- [How To Learn CSS](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
 
 ## Week 8
 
