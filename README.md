@@ -269,7 +269,7 @@ Markup and style the following content — focusing on meaningful structure and 
 See HTML/CSS comments for details.
 
 1. [`recipe-wip-html-comments`](demos/recipe-wip-html-comments/index.html)
-2. [`recipe-wip-html-css`](demos/recipe-wip-html-css/index.html)
+2. [`recipe-wip-html-css`](demos/recipe-wip-html-css/)
 
 ### Readings
 
