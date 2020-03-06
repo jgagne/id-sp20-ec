@@ -264,11 +264,12 @@ Markup and style the following content — focusing on meaningful structure and 
 - [ ] Add any other photos to show steps or final presentation of the recipe
 - [ ] Add an about the author section (link byline to about section)
 
-### Demo
+### Demos
 
-See HTML comments for details.
+See HTML/CSS comments for details.
 
-- [`recipe-wip`](demos/recipe-wip/index.html)
+1. [`recipe-wip-html-comments`](demos/recipe-wip-html-comments/index.html)
+2. [`recipe-wip-html-css`](demos/recipe-wip-html-css/index.html)
 
 ### Readings
 

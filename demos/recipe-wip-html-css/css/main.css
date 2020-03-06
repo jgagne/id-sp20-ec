@@ -1,0 +1,122 @@
+html {
+  font: 100%/1.15 serif;
+}
+
+body {
+  max-width: 60rem;
+  background-color: #f0fff0; /* https://htmlcolorcodes.com */
+  padding: 1rem;
+  margin: 0 auto;
+}
+
+/* lists / reset styles */
+
+dl,
+ol,
+ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+dd {
+  margin-left: 0;
+}
+
+ol,
+ul {
+  padding-left: 1.4em;
+}
+
+/* navigation / menu */
+
+nav {
+  padding: 1rem;
+  border: 1px solid #000;
+  margin-top: 1rem;
+}
+
+nav ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+nav li {
+  margin-top: 1rem;
+}
+
+nav li:first-child {
+  margin-top: 0;
+}
+
+/* recipe lists */
+
+.info dt {
+  margin-top: 1rem;
+}
+
+.info dd {
+  margin-top: .5rem;
+}
+
+.list {
+  list-style-position: inside;
+  padding-left: 0;
+  border-top: 1px dashed #000;
+  border-bottom: 1px dashed #000;
+}
+
+.list li {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-top: 1px dashed #000;
+}
+
+.list li:first-child {
+  border-top: 0;
+}
+
+/* text details */
+
+.fractions {
+  font-size: 125%;
+  font-family: serif;
+  line-height: 0; /* remove line-height */
+  vertical-align: baseline;
+}
+
+mark {
+  background-color: #cfc;
+}
+
+.and {
+  font-weight: normal;
+}
+
+/* breakpoint for wider width layout */
+
+@media (min-width: 60em) {
+
+  /* change font-size for better readability */
+
+  body {
+    font-size: 125%;
+  }
+
+  /* faux columns */
+
+  #ingredients,
+  #preparation {
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  #ingredients {
+    width: 28%;
+    margin-right: 3%;
+  }
+
+  #preparation {
+    width: 68%;
+  }
+
+}
