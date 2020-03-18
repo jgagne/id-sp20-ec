@@ -291,7 +291,7 @@ See HTML/CSS comments for details.
 - Create a repo for your Recipe (Review) project
 - Share a link to your repo in the Slack `#recipe-review` channel
 - Complete the rubric for the Article (Rework) project
-  - A rubric (task list) will be added to your repo an Issue (by the end of the day)
+  - A rubric (task list) Issue will be added to your repo (by the end of the day)
 
 
 ## Tools
