@@ -39,13 +39,12 @@ Wednesday at 1:25–4:05 pm and via [Slack](https://id-sp20-ec.slack.com).
 7. [Week 7](#week-7), March 4
 8. [Week 8](#week-8), March 11, *No class*, Arts and Sciences Spring Break
 9. [Week 9](#week-9), March 18
-10. [Week 10](#week-10), March 18
-11. [Week 11](#week-11), March 25
-12. [Week 12](#week-12), April 1
-13. [Week 13](#week-13), April 8
-14. [Week 14](#week-14), April 15
-15. [Week 15](#week-15), April 22
-16. [Week 16](#week-16), April 29, *Last class*
+10. [Week 10](#week-10), March 25
+11. [Week 11](#week-11), April 1
+12. [Week 12](#week-12), April 8
+13. [Week 13](#week-13), April 15
+14. [Week 14](#week-14), April 22
+15. [Week 15](#week-15), April 29, *Last class*
 
 
 ## Week 1
@@ -278,6 +277,21 @@ See HTML/CSS comments for details.
 ## Week 8
 
 *No class*, Arts and Sciences Spring Break
+
+## Week 9
+
+*Online-only*, Working remotely via Slack and Google Hangout (via invite)
+
+### WFH
+
+- Class sync and discussion
+
+### Homework
+
+- Create a repo for your Recipe (Review) project
+- Share a link to your repo in the Slack `#recipe-review` channel
+- Complete the rubric for the Article (Rework) project
+  - A rubric (task list) will be added to your repo an Issue (by the end of the day)
 
 
 ## Tools
