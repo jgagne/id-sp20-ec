@@ -298,6 +298,10 @@ See HTML/CSS comments for details.
 - [Modern Web Design](https://thegymnasium.com/courses/GYM/107/0/about)
   - Lesson 4: Getting Started With CSS
   - Lesson 5: CSS As A Design Tool
+- [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
+  - Lesson 6: Working with Typography
+  - Lesson 7: Setting Backgrounds & Gradients
+  - Lesson 8: Creating Lists
 
 
 ## Tools
