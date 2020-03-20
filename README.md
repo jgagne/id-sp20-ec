@@ -299,9 +299,12 @@ See HTML/CSS comments for details.
   - Lesson 4: Getting Started With CSS
   - Lesson 5: CSS As A Design Tool
 - [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
-  - Lesson 6: Working with Typography
-  - Lesson 7: Setting Backgrounds & Gradients
-  - Lesson 8: Creating Lists
+  - Lesson 6: [Working with Typography](https://learn.shayhowe.com/html-css/working-with-typography/)
+  - Lesson 7: [Setting Backgrounds & Gradients](https://learn.shayhowe.com/html-css/setting-backgrounds-and-gradients/)
+  - Lesson 8: [Creating Lists](https://learn.shayhowe.com/html-css/creating-lists/)
+- [The CSS Podcast](http://thecsspodcast.googledevelopers.libsynpro.com)
+  - 001: [The Box Model](http://thecsspodcast.googledevelopers.libsynpro.com/-the-css-podcast-box-model-episode-1)
+  - 002: [Selectors](http://thecsspodcast.googledevelopers.libsynpro.com/002-selectors)
 
 
 ## Tools
