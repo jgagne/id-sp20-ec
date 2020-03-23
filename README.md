@@ -290,21 +290,23 @@ See HTML/CSS comments for details.
 
 - Create a repo for your Recipe (Review) project
 - Share a link to your repo in the Slack `#recipe-review` channel
-- Complete the rubric for the Article (Rework) project
-  - A rubric (task list) Issue will be added to your repo (by the end of the day)
+- Complete the rubric for the Article Rework (Project 1)
+  - A rubric (task list) Issue will be added to your repo
 
 ### Resources
 
-- [Modern Web Design](https://thegymnasium.com/courses/GYM/107/0/about)
-  - Lesson 4: Getting Started With CSS
-  - Lesson 5: CSS As A Design Tool
+- [Accessible HTML Elements](https://amberwilson.co.uk/blog/accessible-html-elements/)
 - [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
   - Lesson 6: [Working with Typography](https://learn.shayhowe.com/html-css/working-with-typography/)
   - Lesson 7: [Setting Backgrounds & Gradients](https://learn.shayhowe.com/html-css/setting-backgrounds-and-gradients/)
   - Lesson 8: [Creating Lists](https://learn.shayhowe.com/html-css/creating-lists/)
+- [Modern Web Design](https://thegymnasium.com/courses/GYM/107/0/about)
+  - Lesson 4: Getting Started With CSS
+  - Lesson 5: CSS As A Design Tool
 - [The CSS Podcast](http://thecsspodcast.googledevelopers.libsynpro.com)
   - 001: [The Box Model](http://thecsspodcast.googledevelopers.libsynpro.com/-the-css-podcast-box-model-episode-1)
   - 002: [Selectors](http://thecsspodcast.googledevelopers.libsynpro.com/002-selectors)
+
 
 
 ## Tools
