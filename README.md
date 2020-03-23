@@ -280,7 +280,7 @@ See HTML/CSS comments for details.
 
 ## Week 9
 
-*Online-only*, Working remotely via Slack and Google Hangout
+*Online-only*, Working remotely via Slack and Google Hangouts
 
 ### WFH
 
@@ -314,7 +314,7 @@ See HTML/CSS comments for details.
 
 ## Week 10
 
-*Online-only*, Working remotely via Slack and Google Hangouts (via invite)
+*Online-only*, Working remotely via Slack and Google Hangouts
 
 ### WFH
 
