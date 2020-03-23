@@ -293,16 +293,6 @@ See HTML/CSS comments for details.
 - Complete the rubric for the Article Rework (Project 1)
   - A rubric (task list) Issue will be added to your repo
 
-
-## Week 10
-
-*Online-only*, Working remotely via Slack and Google Hangouts (via invite)
-
-### WFH
-
-- Class sync and discussion @ 1:30 p.m. (Google Hangouts invite via Slack)
-
-
 ### Resources
 
 - [Accessible HTML Elements](https://amberwilson.co.uk/blog/accessible-html-elements/)
@@ -320,6 +310,15 @@ See HTML/CSS comments for details.
 ### Collaboration
 
 - [Teletype for Atom](https://teletype.atom.io)
+
+
+## Week 10
+
+*Online-only*, Working remotely via Slack and Google Hangouts (via invite)
+
+### WFH
+
+- Class sync and discussion @ 1:30 p.m. (Google Hangouts invite via Slack)
 
 
 ## Tools
