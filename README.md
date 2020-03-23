@@ -280,18 +280,28 @@ See HTML/CSS comments for details.
 
 ## Week 9
 
-*Online-only*, Working remotely via Slack and Google Hangout (via invite)
+*Online-only*, Working remotely via Slack and Google Hangout
 
 ### WFH
 
-- Class sync and discussion
+- Class sync and discussion @ 1:30 p.m. (Google Hangouts invite via Slack)
 
 ### Homework
 
-- Create a repo for your Recipe (Review) project
-- Share a link to your repo in the Slack `#recipe-review` channel
+- Create a repo for your Recipe Review (Project 2)
+  - Share a link to your repo in the Slack `#recipe-review` channel
 - Complete the rubric for the Article Rework (Project 1)
   - A rubric (task list) Issue will be added to your repo
+
+
+## Week 10
+
+*Online-only*, Working remotely via Slack and Google Hangouts (via invite)
+
+### WFH
+
+- Class sync and discussion @ 1:30 p.m. (Google Hangouts invite via Slack)
+
 
 ### Resources
 
@@ -310,7 +320,6 @@ See HTML/CSS comments for details.
 ### Collaboration
 
 - [Teletype for Atom](https://teletype.atom.io)
-
 
 
 ## Tools
