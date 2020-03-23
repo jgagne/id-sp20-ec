@@ -307,7 +307,7 @@ See HTML/CSS comments for details.
   - 001: [The Box Model](http://thecsspodcast.googledevelopers.libsynpro.com/-the-css-podcast-box-model-episode-1)
   - 002: [Selectors](http://thecsspodcast.googledevelopers.libsynpro.com/002-selectors)
 
-### Tools
+### Collaboration
 
 - [Teletype for Atom](https://teletype.atom.io)
 
