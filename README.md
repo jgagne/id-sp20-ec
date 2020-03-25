@@ -352,6 +352,19 @@ See HTML/CSS comments for details.
 - [A guide to using Github Pages](https://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 
 
+## Week 11
+
+### Single Serving (Project 3)
+
+Design a modern responsive single serving website — a single-page with a single-theme from [Wikipedia](https://www.wikipedia.org) content; focusing on type, color, image, and layout (built using Bootstrap as a foundation).
+
+#### Text Tools
+
+- [Textise](https://www.textise.net) — Text-Only and Accessibility Tools
+
+
+
+
 ## Tools
 
 ### Text Editors
