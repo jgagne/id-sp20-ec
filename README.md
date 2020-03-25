@@ -329,12 +329,21 @@ See HTML/CSS comments for details.
   - Check off each task as you complete it
   - If you have questions about a task, leave a comment on the issue and tag me at `@jgagne`
 
+### Readings
+
+- [Grid Layout in Bootstrap 3](https://thegymnasium.com/courses/GYM/003/0/about) (Bootstrap 3, not 4, but this free short course explains the fundamentals of Bootstrap)
+- [Learn Bootstrap 4 in 30 minutes by building a landing page website](https://www.freecodecamp.org/news/learn-bootstrap-4-in-30-minute-by-building-a-landing-page-website-guide-for-beginners-f64e03833f33/#portfolio-section) (Disregard the jQuery bit; it's not needed to start)
+
+### Resources
+
+- [Get Started with Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+
 ### Freebies
 
 - [Adobe XD](https://www.adobe.com/products/xd.html)
   - Free vector drawing and design tool; import Sketch, Photoshop, and Illustrator files, etc.
 - [Affinity Photo, Designer, and Publisher](https://affinity.serif.com/en-us/supporting-the-creative-community/)
-  - 90-Day free trial; alternatives for Photoshop, Illustrator, and InDesign
+  - 90-day free trial; alternatives to Photoshop, Illustrator, and InDesign
 
 ### GitHelp
 
