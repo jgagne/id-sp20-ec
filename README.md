@@ -330,6 +330,13 @@ See HTML/CSS comments for details.
   - If you have questions about a task, leave a comment on the issue and tag me at `@jgagne`
 
 
+### Freebies
+
+- [Adobe XD](https://www.adobe.com/products/xd.html)
+ - Free vector drawing and design tool; import Sketch, Photoshop, and Illustrator files, etc.
+- [Affinity Photo, Designer, and Publisher](https://affinity.serif.com/en-us/supporting-the-creative-community/)
+  - 90-Day free trial; alternatives for Photoshop, Illustrator, and InDesign
+
 ## Tools
 
 ### Text Editors
