@@ -344,6 +344,8 @@ See HTML/CSS comments for details.
   - Free vector drawing and design tool; import Sketch, Photoshop, and Illustrator files, etc.
 - [Affinity Photo, Designer, and Publisher](https://affinity.serif.com/en-us/supporting-the-creative-community/)
   - 90-day free trial; alternatives to Photoshop, Illustrator, and InDesign
+- [Sketch](https://sketch.com) (Mac-only; free trial)
+  - [50% off discount for students](https://sketch.com/store/edu/)
 
 ### GitHelp
 
