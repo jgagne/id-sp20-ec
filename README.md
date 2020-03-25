@@ -314,11 +314,20 @@ See HTML/CSS comments for details.
 
 ## Week 10
 
-*Online-only*, Working remotely via Slack and Google Hangouts
+*Online-only*, Working remotely via Slack and Google Hangouts (via invite)
 
 ### WFH
 
-- Class sync and discussion @ 1:30 p.m. (Google Hangouts invite via Slack)
+- Free online discussion — [Response and Adaptation for Online Teaching 1.0](https://designincubation.com/design-events/response-and-adaptation-for-online-teaching-1-0/) @ 1:00–2:30 p.m. (Optional to attend; educators _and students_ are welcome)
+- <mark>Class sync and discussion @ 2:30 p.m.</mark> (Google Hangouts invite via Slack)
+
+### Reminder
+
+- Create a repo for your Recipe Review (Project 2)
+  - Share a link to your repo in the Slack `#recipe-review` channel
+- Rubrics for Article Rework (Project 1) are posted; see the Issues tab on your repo for details
+  - Check off each task as you complete it
+  - If you have questions about a task, leave a comment on the issue and tag me at `@jgagne`
 
 
 ## Tools
