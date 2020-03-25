@@ -348,6 +348,7 @@ See HTML/CSS comments for details.
 ### GitHelp
 
 - [Renaming a File](https://help.github.com/en/github/managing-files-in-a-repository/renaming-a-file)
+- [Deleting files](https://help.github.com/en/github/managing-files-in-a-repository/deleting-files)
 - [Choosing a publishing source](https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source)
 - [A guide to using Github Pages](https://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 
