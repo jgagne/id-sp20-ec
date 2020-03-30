@@ -359,13 +359,16 @@ See HTML/CSS comments for details.
 
 ### Single Serving (Project 3)
 
-Design a modern responsive single serving website — a single-page with a single-theme from [Wikipedia](https://www.wikipedia.org) content; focusing on type, color, image, and layout (built using Bootstrap as a foundation).
+Design a modern responsive single serving website — a single-page with a single-theme from [Wikipedia](https://www.wikipedia.org) content; focusing on type, color, image, and layout (built using [Bootstrap](https://getbootstrap.com) as a foundation).
+
+#### Examples
+
+- [The Fascinating Cuttlefish](http://aarongustafson.github.io/i-heart-cuttlefish/)
+- [Web Typography Tips](https://design.infinum.com/case/web-typography-tips)
 
 #### Text Tools
 
 - [Textise](https://www.textise.net) — Text-Only and Accessibility Tools
-
-
 
 
 ## Tools
