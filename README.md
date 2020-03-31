@@ -357,6 +357,13 @@ See HTML/CSS comments for details.
 
 ## Week 11
 
+*Online-only*, Working remotely via Slack and Google Hangouts (via invite)
+
+### WFH
+
+- Class sync and discussion @ 1:30 p.m. (Google Hangouts invite via Slack)
+- Bootstrap grid layout demo @ 2–3:00 p.m. via Google Hangouts
+
 ### Single Serving (Project 3)
 
 Design a modern responsive single serving website — a single-page with a single-theme from [Wikipedia](https://www.wikipedia.org) content; focusing on type, color, image, and layout (built using [Bootstrap](https://getbootstrap.com) as a foundation).
