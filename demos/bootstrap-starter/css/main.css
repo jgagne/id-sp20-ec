@@ -4,6 +4,10 @@ figure {
   margin: 0;
 }
 
+h1 {
+  font-weight: bold;
+}
+
 /* Links */
 
 a {
