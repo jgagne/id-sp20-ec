@@ -375,7 +375,13 @@ Design a modern responsive single serving website — a single-page with a singl
 
 #### Text Tools
 
-- [Textise](https://www.textise.net) — Text-Only and Accessibility Tools
+- [Textise](https://www.textise.net) — Remove everything from a web page except for its text
+
+#### Readings
+
+- [Building Twitter Bootstrap](https://alistapart.com/article/building-twitter-bootstrap/)
+- [Bootstrap: Thoughts, Rants and Defending My Stance](https://nicoledominguez.com/thoughts/bootstrap-thoughts/)
+- [I Don't Love Bootstrap](https://blog.kellishaver.com/i-dont-love-bootstrap/)
 
 
 ## Tools

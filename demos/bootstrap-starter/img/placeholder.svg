@@ -1,0 +1,10 @@
+<!--
+Simple Image Placeholders with SVG
+https://cloudfour.com/thinks/simple-svg-placeholder/
+-->
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1280" viewBox="0 0 1920 1280" role="img">
+  <title>Placeholder Image</title>
+  <rect fill="#ddd" width="1920" height="1280"/>
+  <text fill="#333" font-family="monospace" font-size="3em" dy="10.5" x="50%" y="50%" text-anchor="middle">1920×1280</text>
+</svg>

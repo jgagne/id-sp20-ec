@@ -1,0 +1,17 @@
+/* Resets */
+
+figure {
+  margin: 0;
+}
+
+/* Links */
+
+a {
+  text-decoration: underline;
+}
+
+/* Captions */
+
+figcaption {
+  font-size: 90%;
+}
