@@ -368,7 +368,7 @@ See HTML/CSS comments for details.
 
 ### Single Serving (Project 3)
 
-Design a modern responsive single serving website — a single-page with a single-theme from [Wikipedia](https://www.wikipedia.org) content; focusing on type, color, image, and layout (built using [Bootstrap](https://getbootstrap.com) as a foundation).
+Design a modern responsive single serving website — a single-page with a single-theme from [Wikipedia](https://www.wikipedia.org) content; focusing on type, color, image, and layout (built using [Bootstrap](https://getbootstrap.com) as a foundation for layout).
 
 #### Examples
 
@@ -377,13 +377,13 @@ Design a modern responsive single serving website — a single-page with a singl
 
 #### Text Tools
 
-- [Textise](https://www.textise.net) — Remove everything from a web page except for its text
+- [Textise](https://www.textise.net) Remove everything from a web page except for its text
 
 #### Readings
 
 - [Building Twitter Bootstrap](https://alistapart.com/article/building-twitter-bootstrap/)
 - [Bootstrap: Thoughts, Rants and Defending My Stance](https://nicoledominguez.com/thoughts/bootstrap-thoughts/)
-- [I Don't Love Bootstrap](https://blog.kellishaver.com/i-dont-love-bootstrap/)
+- [I Don’t Love Bootstrap](https://blog.kellishaver.com/i-dont-love-bootstrap/)
 
 
 ## Tools
