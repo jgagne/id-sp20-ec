@@ -363,6 +363,8 @@ See HTML/CSS comments for details.
 
 - Class sync and discussion @ 1:30 p.m. (Google Hangouts invite via Slack)
 - Bootstrap grid layout demo @ 2–3:00 p.m. via Google Hangouts
+  - [Recording](https://www.dropbox.com/s/vhd50l69xw6rp05/week-11-class-040120.mp4) Bootstrap Layout (and Save Images for Web)
+  - [Demo](https://github.com/jgagne/id-sp20-ec/tree/master/demos/bootstrap-starter) Bootstrap starter project
 
 ### Single Serving (Project 3)
 
