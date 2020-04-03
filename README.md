@@ -363,8 +363,8 @@ See HTML/CSS comments for details.
 
 - Class sync and discussion @ 1:30 p.m. (Google Hangouts invite via Slack)
 - Bootstrap grid layout demo @ 2–3:00 p.m. via Google Hangouts
-  - [Recording](https://www.dropbox.com/s/vhd50l69xw6rp05/week-11-class-040120.mp4) Bootstrap Layout (and Save Images for Web)
-  - [Demo](https://github.com/jgagne/id-sp20-ec/tree/master/demos/bootstrap-starter) Bootstrap starter project
+  - [Recording](https://www.dropbox.com/s/vhd50l69xw6rp05/week-11-class-040120.mp4) — Bootstrap Layout (and Save Images for Web)
+  - [Demo](https://github.com/jgagne/id-sp20-ec/tree/master/demos/bootstrap-starter) — Bootstrap starter project
 
 ### Single Serving (Project 3)
 
@@ -375,15 +375,15 @@ Design a modern responsive single serving website — a single-page with a singl
 - [The Fascinating Cuttlefish](http://aarongustafson.github.io/i-heart-cuttlefish/)
 - [Web Typography Tips](https://design.infinum.com/case/web-typography-tips)
 
-#### Text Tools
-
-- [Textise](https://www.textise.net) Remove everything from a web page except for its text
-
 #### Readings
 
+- [Responsive Images the Simple Way](https://cloudfour.com/thinks/responsive-images-the-simple-way/)
 - [Building Twitter Bootstrap](https://alistapart.com/article/building-twitter-bootstrap/)
 - [Bootstrap: Thoughts, Rants and Defending My Stance](https://nicoledominguez.com/thoughts/bootstrap-thoughts/)
-- [I Don’t Love Bootstrap](https://blog.kellishaver.com/i-dont-love-bootstrap/)
+
+#### Text Tools
+
+- [Textise](https://www.textise.net) — Remove everything from a web page except for its text
 
 
 ## Tools
