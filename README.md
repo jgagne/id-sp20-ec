@@ -363,27 +363,44 @@ See HTML/CSS comments for details.
 
 - Class sync and discussion @ 1:30 p.m. (Google Hangouts invite via Slack)
 - Bootstrap grid layout demo @ 2–3:00 p.m. via Google Hangouts
-  - [Recording](https://www.dropbox.com/s/vhd50l69xw6rp05/week-11-class-040120.mp4) — Bootstrap Layout (and Save Images for Web)
-  - [Demo](https://github.com/jgagne/id-sp20-ec/tree/master/demos/bootstrap-starter) — Bootstrap starter project
+  - [Recording](https://www.dropbox.com/s/vhd50l69xw6rp05/week-11-class-040120.mp4) → Bootstrap Layout (and Save Images for Web)
+  - [Demo](https://github.com/jgagne/id-sp20-ec/tree/master/demos/bootstrap-starter) → Bootstrap starter project
 
 ### Single Serving (Project 3)
 
 Design a modern responsive single serving website — a single-page with a single-theme from [Wikipedia](https://www.wikipedia.org) content; focusing on type, color, image, and layout (built using [Bootstrap](https://getbootstrap.com) as a foundation for layout).
 
-#### Examples
+### Examples
 
 - [The Fascinating Cuttlefish](http://aarongustafson.github.io/i-heart-cuttlefish/)
 - [Web Typography Tips](https://design.infinum.com/case/web-typography-tips)
 
-#### Readings
+### Readings
 
 - [Responsive Images the Simple Way](https://cloudfour.com/thinks/responsive-images-the-simple-way/)
 - [Building Twitter Bootstrap](https://alistapart.com/article/building-twitter-bootstrap/)
 - [Bootstrap: Thoughts, Rants and Defending My Stance](https://nicoledominguez.com/thoughts/bootstrap-thoughts/)
 
-#### Text Tools
+### Text Tools
 
-- [Textise](https://www.textise.net) — Remove everything from a web page except for its text
+- [Textise](https://www.textise.net) → Remove everything from a web page except for its text
+
+
+## Week 12
+
+*Online-only*, Working remotely via Slack and Google Hangouts (via invite)
+
+### WFH
+
+- Class sync, discussion, and demo @ 1:30 p.m. (Google Hangouts invite via Slack)
+
+### Readings
+
+- [Getting Unstuck](https://cloudfour.com/thinks/getting-unstuck/)
+
+### Resources
+
+- [Bootstrap Tutorial: Learn Bootstrap 4 in 10 minutes](https://content.breatheco.de/en/lesson/bootstrap-tutorial-of-bootstrap-4)
 
 
 ## Tools
