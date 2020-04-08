@@ -393,6 +393,8 @@ Design a modern responsive single serving website — a single-page with a singl
 ### WFH
 
 - Class sync, discussion, and demo @ 1:30 p.m. (Google Hangouts invite via Slack)
+- Web Fonts via Google Fonts
+  - [Demo](https://github.com/jgagne/web-fonts-google) → Google Web Fonts
 
 ### Readings
 
