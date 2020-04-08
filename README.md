@@ -397,10 +397,13 @@ Design a modern responsive single serving website — a single-page with a singl
 ### Readings
 
 - [Getting Unstuck](https://cloudfour.com/thinks/getting-unstuck/)
+- [Web Typography Tips](https://design.infinum.com/case/web-typography-tips)
 
 ### Resources
 
 - [Bootstrap Tutorial: Learn Bootstrap 4 in 10 minutes](https://content.breatheco.de/en/lesson/bootstrap-tutorial-of-bootstrap-4)
+- [Google Fonts](https://fonts.google.com)
+- [How to use Google Fonts in your next web design project](https://www.freecodecamp.org/news/how-to-use-google-fonts-in-your-next-web-design-project-e1ad48f1adfa/)
 
 
 ## Tools
