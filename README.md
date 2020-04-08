@@ -45,7 +45,7 @@ Wednesday at 1:25–4:05 pm and via [Slack](https://id-sp20-ec.slack.com).
 13. [Week 13](#week-13), April 15
 14. [Week 14](#week-14), April 22
 15. [Week 15](#week-15), April 29, *Last class*
-
+16. [Week 16](#week-16), May 6, *Optional class*; work session and all projects (repos) need to be up-to-date for grading
 
 ## Week 1
 
