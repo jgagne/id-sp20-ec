@@ -399,11 +399,13 @@ Design a modern responsive single serving website — a single-page with a singl
 
 ### Readings
 
-- [Getting Unstuck](https://cloudfour.com/thinks/getting-unstuck/)
+- [Everything you need to know about web fonts](https://getflywheel.com/layout/everything-you-need-to-know-about-web-fonts/)
 - [Web Typography Tips](https://design.infinum.com/case/web-typography-tips)
+- [Getting Unstuck](https://cloudfour.com/thinks/getting-unstuck/)
 
 ### Resources
 
+- [Grid Layout in Bootstrap 3](https://thegymnasium.com/courses/GYM/003/0/about) (Bootstrap 3, not 4, but transferable — this free short course explains the fundamentals of getting started with Bootstrap)
 - [Bootstrap Tutorial: Learn Bootstrap 4 in 10 minutes](https://content.breatheco.de/en/lesson/bootstrap-tutorial-of-bootstrap-4)
 - [Google Fonts](https://fonts.google.com)
 - [How to use Google Fonts in your next web design project](https://www.freecodecamp.org/news/how-to-use-google-fonts-in-your-next-web-design-project-e1ad48f1adfa/)
