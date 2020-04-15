@@ -425,7 +425,7 @@ Design a modern responsive single serving website — a single-page with a singl
 
 ### Resources
 
- -[Web Font Test](http://webfont-test.com) → Test up to three fonts (Google Fonts and/or Websafe fonts)
+- [Web Font Test](http://webfont-test.com) → Test up to three fonts (Google Fonts and/or Websafe fonts)
 - [Snapfont](https://getsnapfont.com) → We help you choose the right font.
 
 
