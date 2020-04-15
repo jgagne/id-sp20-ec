@@ -45,7 +45,7 @@ Wednesday at 1:25–4:05 pm and via [Slack](https://id-sp20-ec.slack.com).
 13. [Week 13](#week-13), April 15
 14. [Week 14](#week-14), April 22
 15. [Week 15](#week-15), April 29, *Last class*
-16. [Week 16](#week-16), May 6, *Optional class*; work session and all projects (repos) need to be up-to-date for grading
+16. [Week 16](#week-16), May 6, *Optional class*; work session; update all projects (repos) and rubrics (see repo Issues tab) for final grading
 
 ## Week 1
 
@@ -409,6 +409,24 @@ Design a modern responsive single serving website — a single-page with a singl
 - [Bootstrap Tutorial: Learn Bootstrap 4 in 10 minutes](https://content.breatheco.de/en/lesson/bootstrap-tutorial-of-bootstrap-4)
 - [Google Fonts](https://fonts.google.com)
 - [How to use Google Fonts in your next web design project](https://www.freecodecamp.org/news/how-to-use-google-fonts-in-your-next-web-design-project-e1ad48f1adfa/)
+
+
+## Week 13
+
+*Online-only*, Working remotely via Slack and Google Hangouts (via invite)
+
+### WFH
+
+- Class sync and discussion @ 1:30 p.m. (Google Hangouts invite via Slack)
+
+### Readings
+
+- [Web Accessibility Checklist](https://websitesetup.org/web-accessibility-checklist/) → 15 Things to Improve Your Website Accessibility
+
+### Resources
+
+ -[Web Font Test](http://webfont-test.com) → Test up to three fonts (Google Fonts and/or Websafe fonts)
+- [Snapfont](https://getsnapfont.com) → We help you choose the right font.
 
 
 ## Tools
