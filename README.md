@@ -429,6 +429,16 @@ Design a modern responsive single serving website — a single-page with a singl
 - [Snapfont](https://getsnapfont.com) → We help you choose the right font.
 
 
+## Week 14
+
+*Online-only*, Working remotely via Slack and Google Hangouts (via invite)
+
+### WFH
+
+- Class sync and discussion @ 1:30 p.m. (Google Hangouts invite via Slack)
+- Class work session 2—4 p.m.
+
+
 ## Tools
 
 ### Text Editors
