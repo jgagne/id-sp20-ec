@@ -438,6 +438,16 @@ Design a modern responsive single serving website — a single-page with a singl
 - Class sync and discussion @ 1:30 p.m. (Google Hangouts invite via Slack)
 - Class work session 2—4 p.m.
 
+### Extra Credit
+
+Design a one-page portfolio showcasing your class projects and more.
+
+- [Setting Up a Place on Github](https://dannguyen.github.io/github-for-portfolios/lessons/setup-github/)
+
+#### Outdated, But A Good Reference
+
+- [Lesson Files: Maya Chopra Portfolio Page](https://gymnasium.github.io/GYM-101/Lesson_Files/RWD_All_Course_Assets.zip)
+
 
 ## Tools
 
