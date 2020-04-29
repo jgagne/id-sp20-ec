@@ -512,7 +512,7 @@ Design a one-page portfolio showcasing your class projects and more.
   - [Single Serving](https://github.com/madelinekew/single-serving-project) → [❏](https://madelinekew.github.io/single-serving-project/)
 - Yona Kimball-Smith
   - [Article Rework](https://github.com/YKimball-Smith/article-rework) → [❏](https://YKimball-Smith.github.io/article-rework/)
-  - [Recipe Review](https://github.com/YKimball-Smith/recipe) → ?
+  - [Recipe Review](https://github.com/YKimball-Smith/recipe) → [❏](https://ykimball-smith.github.io/recipe/)
 - Rory Lake
   - [Article Rework](https://github.com/Rklake/article-rework) → [❏](https://rklake.github.io/article-rework/)
   - [Recipe Review](https://github.com/Rklake/recipe) → [❏](https://rklake.github.io/article-rework/)
@@ -535,7 +535,7 @@ Design a one-page portfolio showcasing your class projects and more.
   - [Single Serving](https://github.com/wilfford/single-serving-project) → [❏](https://github.com/wilfford/single-serving-project)
 - Taylor Rathbun
   - [Article Rework](https://github.com/taylorrathbun/article-rework) → [?](https://taylorrathbun.github.io/article-rework)
-  - [Recipe Review](https://github.com/taylorrathbun/recipe) → [?](https://taylorrathbun.github.io/article-rework)
+  - [Recipe Review](https://github.com/taylorrathbun/recipe) → [?](https://taylorrathbun.github.io/recipe)
   - [Single Serving](https://github.com/taylorrathbun/Single-Serving) → [?](https://taylorrathbun.github.io/single-serving)
 - Tayla Robinson
   - [Article Rework](https://github.com/taylarobinson/article-rework) → [❏](https://taylarobinson.github.io/article-rework/)
@@ -543,7 +543,7 @@ Design a one-page portfolio showcasing your class projects and more.
   - [Single Serving](https://github.com/taylarobinson/single-serving-project) → [❏](https://github.com/taylarobinson/single-serving-project)
 - Ben Whitmore
   - [Article Rework](https://github.com/benwhitmore/article-rework) → [❏](https://benwhitmore.github.io/article-rework/)
-   - [Recipe Review](https://github.com/benwhitmore/food-recipe) → [❏](https://taylarobinson.github.io/taylarobinson.github.io)
+   - [Recipe Review](https://github.com/benwhitmore/food-recipe) → [❏](https://benwhitmore.github.io/food-recipe/)
    - [Portfolio](https://github.com/benwhitmore/personal-website) → [❏](benwhitmore.net)
 
 
