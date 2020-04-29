@@ -436,7 +436,7 @@ Design a modern responsive single serving website — a single-page with a singl
 ### WFH
 
 - Class sync and discussion @ 1:30 p.m. (Google Hangouts invite via Slack)
-- Class work session 2—4 p.m.
+- Class work session 2–4 p.m.
 
 ### Extra Credit
 
@@ -447,6 +447,35 @@ Design a one-page portfolio showcasing your class projects and more.
 #### Outdated, But A Good Reference
 
 - [Lesson Files: Maya Chopra Portfolio Page](https://gymnasium.github.io/GYM-101/Lesson_Files/RWD_All_Course_Assets.zip)
+
+
+## Week 15
+
+**Last class**, *Online-only*, Working remotely via Slack and Google Hangouts (via invite)
+
+### WFH
+
+- Class sync and discussion @ 1:30–2:30 p.m. (Google Hangouts invite via Slack)
+  - Single Serving review
+  - Course survey completion (received via email)
+  - Portfolio website extra credit reminder; see [Week 14 Extra Credit](#week-14) for details
+
+- Class work-a-thon
+  - Project updates, rubric completion, etc.
+
+
+## Week 16
+
+**Optional**, *Online-only*, Working remotely via Slack and Google Hangouts (via invite)
+
+- Class work-a-thon
+  - Project updates, rubric completion, etc.
+  - Portfolio website extra credit reminder; see [Week 14 Extra Credit](#week-14) for details
+
+
+### WFH
+
+- Class sync and discussion @ 1:30 p.m. (Google Hangouts invite via Slack)
 
 
 ## Tools
