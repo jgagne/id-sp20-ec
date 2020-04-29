@@ -456,26 +456,31 @@ Design a one-page portfolio showcasing your class projects and more.
 ### WFH
 
 - Class sync and discussion @ 1:30–2:30 p.m. (Google Hangouts invite via Slack)
-  - Single Serving review
+  - Single Serving project review
   - Course survey completion (received via email)
-  - Portfolio website extra credit reminder; see [Week 14 Extra Credit](#week-14) for details
+  - Portfolio webpage extra credit reminder; see [Week 14 Extra Credit](#week-14) for details
 
 - Class work-a-thon
   - Project updates, rubric completion, etc.
+
+- Accepting work until Tuesday, May 12 (end of day)
+  - Notify me via GitHub, Slack, or email
 
 
 ## Week 16
 
 **Optional**, *Online-only*, Working remotely via Slack and Google Hangouts (via invite)
 
-- Class work-a-thon
-  - Project updates, rubric completion, etc.
-  - Portfolio website extra credit reminder; see [Week 14 Extra Credit](#week-14) for details
-
-
 ### WFH
 
 - Class sync and discussion @ 1:30 p.m. (Google Hangouts invite via Slack)
+
+- Class work-a-thon
+  - Project updates, rubric completion, etc.
+  - Portfolio webpage extra credit reminder; see [Week 14 Extra Credit](#week-14) for details
+
+- Accepting work until Tuesday, May 12 (end of day)
+  - Notify me via GitHub, Slack, or email
 
 
 ## Tools
