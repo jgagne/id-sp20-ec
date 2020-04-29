@@ -13,9 +13,9 @@
 
 - [Course Description](#course-description)
 - [Schedule](#schedule)
+- [Student Work](#student-work)
 - [Tools](#tools)
 - [Books](#books)
-- [Resources](#resources)
 - [Policies](#policies)
 
 - - -
@@ -481,6 +481,72 @@ Design a one-page portfolio showcasing your class projects and more.
 
 - Accepting work until Tuesday, May 12 (end of day)
   - Notify me via GitHub, Slack, or email
+
+
+## Student Work
+
+- Erik Brobst
+  - [Article Rework](https://github.com/ebrobst/article-rework) → [❏](https://ebrobst.github.io/article-rework/)
+  - [Recipe Review](https://github.com/ebrobst/brobste-recipe-project) → ?
+- Dimitri Christo
+  - [Article Rework](https://github.com/Dimitri-Christo/article-rework1) → ?
+  - [Recipe Review](https://github.com/Dimitri-Christo/crepe-recipe) → ?
+- Jordan Currier
+  - [Article Rework](https://github.com/jordanpetersoncurrier/article-rework) → [❏](https://jordanpetersoncurrier.github.io/article-rework/)
+  - [Recipe Review](https://github.com/jordanpetersoncurrier/smoresrecipie-) → ?
+  - [Single Serving](https://github.com/jordanpetersoncurrier/single-serving-aleins) → ?
+- Tanner Demaggio
+  - [Article Rework](https://github.com/tdemag3/article-rework) → [❏](https://tdemag3.github.io/article-rework/)
+  - [Recipe Review](https://github.com/tdemag3/recipe) → [❏](https://tdemag3.github.io/recipe/)
+  - [Single Serving](https://github.com/tdemag3/single-serving) → [❏](https://tdemag3.github.io/single-serving/)
+- Abby Hart
+  - [Article Rework](https://github.com/AbbyHart/article-rework) → [❏](https://abbyhart.github.io/article-rework/)
+  - [Recipe Review](https://github.com/AbbyHart/recipe-project) → [❏](https://abbyhart.github.io/recipe-project/)
+- Ally Jesse
+  - [Article Rework](https://github.com/AJesse0/article-rework) → [❏](https://ajesse0.github.io/article-rework/)
+  - [Recipe Review](https://github.com/AJesse0/recipie-wip) → ?
+- Kayla Keating
+- Maddy Kew
+  - [Article Rework](https://github.com/madelinekew/article-rework) → [❏](https://madelinekew.github.io/article-rework/)
+  - [Recipe Review](https://github.com/madelinekew/recipe-project) → [❏](https://madelinekew.github.io/recipe-project/)
+  - [Single Serving](https://github.com/madelinekew/single-serving-project) → [❏](https://madelinekew.github.io/single-serving-project/)
+- Yona Kimball-Smith
+  - [Article Rework](https://github.com/YKimball-Smith/article-rework) → [❏](https://YKimball-Smith.github.io/article-rework/)
+  - [Recipe Review](https://github.com/YKimball-Smith/recipe) → ?
+- Rory Lake
+  - [Article Rework](https://github.com/Rklake/article-rework) → [❏](https://rklake.github.io/article-rework/)
+  - [Recipe Review](https://github.com/Rklake/recipe) → [❏](https://rklake.github.io/article-rework/)
+  - [Single Serving](https://github.com/Rklake/singleserving) → [❏](https://Rklake.github.io/singleserving)
+- Jack Mastrototaro
+  - [Article Rework](https://github.com/jtmastro/8-ways-to-work-smarter-in-2020) → [❏](https://jtmastro.github.io/8-ways-to-work-smarter-in-2020/)
+  - [Recipe Review](https://github.com/jtmastro/ny-times-grasshopper-brownie-recipe) → [❏](https://jtmastro.github.io/new-york-times-grasshopper-brownie-recipe/)
+  - [Single Serving](https://github.com/jtmastro/studio-54) → [❏](https://jtmastro.github.io/studio-54/)
+- Diane McGregor
+  - [Article Rework](https://github.com/dianemcg/articlerework) → [❏](https://dianemcg.github.io/articlerework/)
+  - [Recipe Review](https://github.com/dianemcg/recipe) → [❏](https://dianemcg.github.io/recipe/)
+  - [Single Serving](https://github.com/dianemcg/singleserving) → ?
+- Mallory Michaud
+  - [Article Rework](https://github.com/malmichaud/article-rework) → [❏](https://malmichaud.github.io/article-rework/)
+  - [Recipe Review](https://github.com/malmichaud/fruitsalad_recipe) → [❏](https://github.com/malmichaud/fruitsalad_recipe)
+  - [Single Serving](https://github.com/malmichaud/singleserving_travelguide) → ?
+- Will Ortiz
+  - [Article Rework](https://github.com/wilfford/article-rework) → [❏](https://wilfford.github.io/article-rework/)
+  - [Recipe Review](https://github.com/wilfford/The-Best-Ever-Guacamole-Recipe) → [❏](https://wilfford.github.io/The-Best-Ever-Guacamole-Recipe/)
+  - [Single Serving](https://github.com/wilfford/single-serving-project) → [❏](https://github.com/wilfford/single-serving-project)
+- Taylor Rathbun
+  - [Article Rework](https://github.com/taylorrathbun/article-rework) → [?](https://taylorrathbun.github.io/article-rework)
+  - [Recipe Review](https://github.com/taylorrathbun/recipe) → [?](https://taylorrathbun.github.io/article-rework)
+  - [Single Serving](https://github.com/taylorrathbun/Single-Serving) → [?](https://taylorrathbun.github.io/single-serving)
+- Tayla Robinson
+  - [Article Rework](https://github.com/taylarobinson/article-rework) → [❏](https://taylarobinson.github.io/article-rework/)
+  - [Recipe Review](https://github.com/taylarobinson/taylarobinson.github.io) → [❏](https://taylarobinson.github.io/taylarobinson.github.io)
+  - [Single Serving](https://github.com/taylarobinson/single-serving-project) → [❏](https://github.com/taylarobinson/single-serving-project)
+- Ben Whitmore
+  - [Article Rework](https://github.com/benwhitmore/article-rework) → [❏](https://benwhitmore.github.io/article-rework/)
+   - [Recipe Review](https://github.com/benwhitmore/food-recipe) → [❏](https://taylarobinson.github.io/taylarobinson.github.io)
+   - [Portfolio](https://github.com/benwhitmore/personal-website) → [❏](benwhitmore.net)
+
+
 
 
 ## Tools
