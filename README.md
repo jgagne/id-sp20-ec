@@ -487,7 +487,7 @@ Design a one-page portfolio showcasing your class projects and more.
 
 - Erik Brobst
   - [Article Rework](https://github.com/ebrobst/article-rework) → [❏](https://ebrobst.github.io/article-rework/)
-  - [Recipe Review](https://github.com/ebrobst/brobste-recipe-project) → ?
+  - [Recipe Review](https://ebrobst.github.io/recipe-project/) → ❏
 - Dimitri Christo
   - [Article Rework](https://github.com/Dimitri-Christo/article-rework1) → ?
   - [Recipe Review](https://github.com/Dimitri-Christo/crepe-recipe) → ?
