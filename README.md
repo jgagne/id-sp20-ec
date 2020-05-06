@@ -513,6 +513,7 @@ Design a one-page portfolio showcasing your class projects and more.
 - Yona Kimball-Smith
   - [Article Rework](https://github.com/YKimball-Smith/article-rework) → [❏](https://YKimball-Smith.github.io/article-rework/)
   - [Recipe Review](https://github.com/YKimball-Smith/recipe) → [❏](https://ykimball-smith.github.io/recipe/)
+   - [Single Serving](https://github.com/YKimball-Smith/single-serving) → [❏](https://ykimball-smith.github.io/single-serving/)
 - Rory Lake
   - [Article Rework](https://github.com/Rklake/article-rework) → [❏](https://rklake.github.io/article-rework/)
   - [Recipe Review](https://github.com/Rklake/recipe) → [❏](https://rklake.github.io/article-rework/)
@@ -534,9 +535,9 @@ Design a one-page portfolio showcasing your class projects and more.
   - [Recipe Review](https://github.com/wilfford/The-Best-Ever-Guacamole-Recipe) → [❏](https://wilfford.github.io/The-Best-Ever-Guacamole-Recipe/)
   - [Single Serving](https://github.com/wilfford/single-serving-project) → [❏](https://github.com/wilfford/single-serving-project)
 - Taylor Rathbun
-  - [Article Rework](https://github.com/taylorrathbun/article-rework) → [?](https://taylorrathbun.github.io/article-rework)
-  - [Recipe Review](https://github.com/taylorrathbun/recipe) → [?](https://taylorrathbun.github.io/recipe)
-  - [Single Serving](https://github.com/taylorrathbun/Single-Serving) → [?](https://taylorrathbun.github.io/single-serving)
+  - [Article Rework](https://github.com/taylorrathbun/article-rework) → [❏](https://taylorrathbun.github.io/article-rework)
+  - [Recipe Review](https://github.com/taylorrathbun/recipe) → [❏](https://taylorrathbun.github.io/recipe)
+  - [Single Serving](https://github.com/taylorrathbun/single-serving) → [❏](https://taylorrathbun.github.io/single-serving)
 - Tayla Robinson
   - [Article Rework](https://github.com/taylarobinson/article-rework) → [❏](https://taylarobinson.github.io/article-rework/)
   - [Recipe Review](https://github.com/taylarobinson/taylarobinson.github.io) → [❏](https://taylarobinson.github.io/taylarobinson.github.io)
