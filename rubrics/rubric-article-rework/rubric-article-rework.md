@@ -73,7 +73,7 @@
 
 `10 points`
 
-- [ ] Optimize with SVGOMG
+- [ ] Optimize with [SVGOMG](https://jakearchibald.github.io/svgomg/)
   - <details>
     <summary>Use these settings:</summary>
 
