@@ -487,14 +487,16 @@ Design a one-page portfolio showcasing your class projects and more.
 
 - Erik Brobst
   - [Article Rework](https://github.com/ebrobst/article-rework) → [❏](https://ebrobst.github.io/article-rework/)
-  - [Recipe Review](https://ebrobst.github.io/recipe-project/) → ❏
+  - [Recipe Review](https://ebrobst.github.io/recipe-project/) → [❏](https://ebrobst.github.io/recipe-project/)
+  - [Single Serving]( https://github.com/ebrobst/new-world-order) → [❏](https://ebrobst.github.io/new-world-order/)
 - Dimitri Christo
   - [Article Rework](https://github.com/Dimitri-Christo/article-rework1) → ?
   - [Recipe Review](https://github.com/Dimitri-Christo/crepe-recipe) → ?
+  - [Single Serving](https://github.com/Dimitri-Christo/Nosferatu) → ?
 - Jordan Currier
   - [Article Rework](https://github.com/jordanpetersoncurrier/article-rework) → [❏](https://jordanpetersoncurrier.github.io/article-rework/)
-  - [Recipe Review](https://github.com/jordanpetersoncurrier/smoresrecipie-) → ?
-  - [Single Serving](https://github.com/jordanpetersoncurrier/single-serving-aleins) → ?
+  - [Recipe Review](https://github.com/jordanpetersoncurrier/smores-recipe) → [❏](https://jordanpetersoncurrier.github.io/smores-recipe/)
+  - [Single Serving](https://github.com/jordanpetersoncurrier/single-serving-extraterrestrial-life) → [❏](https://jordanpetersoncurrier.github.io/single-serving-extraterrestrial-life/)
 - Tanner Demaggio
   - [Article Rework](https://github.com/tdemag3/article-rework) → [❏](https://tdemag3.github.io/article-rework/)
   - [Recipe Review](https://github.com/tdemag3/recipe) → [❏](https://tdemag3.github.io/recipe/)
@@ -502,9 +504,11 @@ Design a one-page portfolio showcasing your class projects and more.
 - Abby Hart
   - [Article Rework](https://github.com/AbbyHart/article-rework) → [❏](https://abbyhart.github.io/article-rework/)
   - [Recipe Review](https://github.com/AbbyHart/recipe-project) → [❏](https://abbyhart.github.io/recipe-project/)
+  - [Single Serving](https://github.com/AbbyHart/single-serving) → [❏](https://abbyhart.github.io/single-serving/)
 - Ally Jesse
   - [Article Rework](https://github.com/AJesse0/article-rework) → [❏](https://ajesse0.github.io/article-rework/)
-  - [Recipe Review](https://github.com/AJesse0/recipie-wip) → ?
+  - [Recipe Review](https://github.com/AJesse0/pesto-recipe) → [❏](https://ajesse0.github.io/pesto-recipe/)
+  - [Single Serving](https://github.com/ajesse0/single-serving) → [❏](https://ajesse0.github.io/single-serving/)
 - Kayla Keating
 - Maddy Kew
   - [Article Rework](https://github.com/madelinekew/article-rework) → [❏](https://madelinekew.github.io/article-rework/)
@@ -513,7 +517,7 @@ Design a one-page portfolio showcasing your class projects and more.
 - Yona Kimball-Smith
   - [Article Rework](https://github.com/YKimball-Smith/article-rework) → [❏](https://YKimball-Smith.github.io/article-rework/)
   - [Recipe Review](https://github.com/YKimball-Smith/recipe) → [❏](https://ykimball-smith.github.io/recipe/)
-   - [Single Serving](https://github.com/YKimball-Smith/single-serving) → [❏](https://ykimball-smith.github.io/single-serving/)
+   - [Single Serving](https://github.com/YKimball-Smith/Lunar-Phase) → [❏](https://ykimball-smith.github.io/Lunar-Phase/)
 - Rory Lake
   - [Article Rework](https://github.com/Rklake/article-rework) → [❏](https://rklake.github.io/article-rework/)
   - [Recipe Review](https://github.com/Rklake/recipe) → [❏](https://rklake.github.io/article-rework/)
@@ -529,7 +533,7 @@ Design a one-page portfolio showcasing your class projects and more.
 - Mallory Michaud
   - [Article Rework](https://github.com/malmichaud/article-rework) → [❏](https://malmichaud.github.io/article-rework/)
   - [Recipe Review](https://github.com/malmichaud/fruitsalad_recipe) → [❏](https://github.com/malmichaud/fruitsalad_recipe)
-  - [Single Serving](https://github.com/malmichaud/singleserving_travelguide) → ?
+  - [Single Serving](https://github.com/malmichaud/singleserving_travelguide) → [❏](https://github.com/malmichaud/singleserving_travelguide)
 - Will Ortiz
   - [Article Rework](https://github.com/wilfford/article-rework) → [❏](https://wilfford.github.io/article-rework/)
   - [Recipe Review](https://github.com/wilfford/The-Best-Ever-Guacamole-Recipe) → [❏](https://wilfford.github.io/The-Best-Ever-Guacamole-Recipe/)
@@ -545,6 +549,7 @@ Design a one-page portfolio showcasing your class projects and more.
 - Ben Whitmore
   - [Article Rework](https://github.com/benwhitmore/article-rework) → [❏](https://benwhitmore.github.io/article-rework/)
    - [Recipe Review](https://github.com/benwhitmore/food-recipe) → [❏](https://benwhitmore.github.io/food-recipe/)
+  - [Single Serving](https://github.com/benwhitmore/single-serving) → [❏](https://benwhitmore.github.io/single-serving/)
    - [Portfolio](https://github.com/benwhitmore/personal-website) → [❏](benwhitmore.net)
 
 
