@@ -533,7 +533,7 @@ Design a one-page portfolio showcasing your class projects and more.
 - Mallory Michaud
   - [Article Rework](https://github.com/malmichaud/article-rework) → [❏](https://malmichaud.github.io/article-rework/)
   - [Recipe Review](https://github.com/malmichaud/fruitsalad_recipe) → [❏](https://github.com/malmichaud/fruitsalad_recipe)
-  - [Single Serving](https://github.com/malmichaud/singleserving_travelguide) → [❏](https://github.com/malmichaud/singleserving_travelguide)
+  - [Single Serving](https://github.com/malmichaud/singleserving_travelguide) → [❏](https://malmichaud.github.io/singleserving_travelguide/)
 - Will Ortiz
   - [Article Rework](https://github.com/wilfford/article-rework) → [❏](https://wilfford.github.io/article-rework/)
   - [Recipe Review](https://github.com/wilfford/The-Best-Ever-Guacamole-Recipe) → [❏](https://wilfford.github.io/The-Best-Ever-Guacamole-Recipe/)
