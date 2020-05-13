@@ -529,7 +529,7 @@ Design a one-page portfolio showcasing your class projects and more.
 - Diane McGregor
   - [Article Rework](https://github.com/dianemcg/articlerework) → [❏](https://dianemcg.github.io/articlerework/)
   - [Recipe Review](https://github.com/dianemcg/recipe) → [❏](https://dianemcg.github.io/recipe/)
-  - [Single Serving](https://github.com/dianemcg/singleserving) → ?
+  - [Single Serving](https://github.com/dianemcg/singleserving) → [❏](https://dianemcg.github.io/singleserving/)
 - Mallory Michaud
   - [Article Rework](https://github.com/malmichaud/article-rework) → [❏](https://malmichaud.github.io/article-rework/)
   - [Recipe Review](https://github.com/malmichaud/fruitsalad_recipe) → [❏](https://github.com/malmichaud/fruitsalad_recipe)
